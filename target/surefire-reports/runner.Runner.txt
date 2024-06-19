@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: runner.Runner
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 143.836 s <<< FAILURE! - in runner.Runner
+sales force deleteMobileApp  functionalities.Verify delete MobileApp Pop-up window functionalities  Time elapsed: 65.011 s  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<Delete MobileApp[]> but was:<Delete MobileApp[3378]>
+
